@@ -19,7 +19,7 @@ mode through the use of an input file. It also supports generation of
 certificate signing requests (CSR), so that a commercial- or
 organization-specific CA can be used to sign the certificates. For example:
 
-. Optional: Create a certificate authority for your {es} cluster.
+. Create a certificate authority for your {es} cluster.
 +
 --
 For example, use the `elasticsearch-certutil ca` command:
